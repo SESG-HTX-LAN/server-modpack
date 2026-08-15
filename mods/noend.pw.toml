@@ -1,0 +1,13 @@
+name = "DisableEnd"
+filename = "Disable End-0.7-26.1-BETA.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/26FOsJLr/versions/B4iUHmuu/Disable%20End-0.7-26.1-BETA.jar"
+hash-format = "sha512"
+hash = "f9500ffb2696f95871ce96bd4104be68988a193d8cf2f54efc7102d401e5ceab9794c3db52b61b6873ee6825fcc2d08286fa53220ad313cd86622edc6a4323fe"
+
+[update]
+[update.modrinth]
+mod-id = "26FOsJLr"
+version = "B4iUHmuu"

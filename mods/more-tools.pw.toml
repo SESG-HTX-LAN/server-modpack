@@ -1,0 +1,13 @@
+name = "More Tools (Polymer)"
+filename = "moretools-1.10.0+26.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/S6P4vaGq/versions/uvasQKd2/moretools-1.10.0%2B26.1.1.jar"
+hash-format = "sha512"
+hash = "ec6ff1585fa40a5db92cf4c12ce26694a58a3938d5ef400c51669f868564193d3b3bae9027db5e7445811c057602243f5b1368cbc10fce7e12f7e97527e6afaa"
+
+[update]
+[update.modrinth]
+mod-id = "S6P4vaGq"
+version = "uvasQKd2"

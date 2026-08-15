@@ -1,0 +1,13 @@
+name = "create-serversided"
+author = "Poellebob"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "711bb19bf2373582a8ed8aba28a94cdc9b874288542556d7847f15fa47b17d6e"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.1.2"

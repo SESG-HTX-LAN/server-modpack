@@ -1,0 +1,274 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DisableEnd.json5"
+hash = "aa978a9c78f2e9a200f966a5e7bfb7ad9c9643ae4b527a33c264d6e196c117a4"
+
+[[files]]
+file = "config/better-fabric-console.conf"
+hash = "67b808c0277bb27491f3034cd8badb7300ba045cdb6e2a0233fb643e7906b037"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/enhancedgroups/enhancedgroups.properties"
+hash = "f532d0c0fecd0e99ed7ee53c8a1a0ed0f59c8ea272d2d86e599b804ecd49a7f2"
+
+[[files]]
+file = "config/experimentalist.json"
+hash = "fe49f65f8fb71a38ce51aef3db050e873df7d4466b326a3469cc6948440095be"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/image2map.json"
+hash = "017fcc31d5228472e9c4e42054f28df39c2bc11010ec6ae035d7af1d1b7e1eb3"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/polydex.json"
+hash = "4b78d03f488d1bad33860084cf565cc68dcc90b6bda7d67a338b396407f14e16"
+
+[[files]]
+file = "config/polyfactory.json"
+hash = "8e8bf0480eca2e47a56c5747901a86c3c2555a452761e559a710e597e4f6835a"
+
+[[files]]
+file = "config/polymer/auto-host.json"
+hash = "31488ee29808b46555ae7529fd060a427a9b4f187a20880499724eb7424e41f7"
+
+[[files]]
+file = "config/polymer/common.json"
+hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "cad141be15e9c9d8c73dafc72bf80b9c8f4567d203730c0efa3edc1fa9ede9b6"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "eaec27618070f4daf636a5e8457c978e1d9afffa22fba907eca29cdd700a94d2"
+
+[[files]]
+file = "config/polymer/sound-patch.json"
+hash = "f815116c7a6a7ba28de432cf2be7fdbf49e2e1adb5436438d347d391ee3b5c74"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "b428c07faaed97d3bee29aa748bb8a1773f5145008435c08d9b5aed5151da3ad"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "87d0f11eb2f89c43d3b9ba9ce24485b5b61e2d230049578a9674850a5798390f"
+
+[[files]]
+file = "mods/adventure-platform-mod.pw.toml"
+hash = "ee2c7c6b234e4e310e8a4dbbfe3de81a0fe099e99a2c22eb7a2c4622b05327a9"
+metafile = true
+
+[[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "206ff590f9a55ddf46e0e0eec8fefeb8f8c0618602f153a276beb9cf75652807"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand-polymer.pw.toml"
+hash = "af04825eddc2865d89daafb2b1173bd6daf2bc3bdbfe30c7c2c59e60da242d96"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "19ce920d3d6cf9d2f28cab369567fe605135769997c699fc20646116de0e2671"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "d804d751b2c785b17464d238888278662b4ca8b72902ded34c38e8e13ac471dd"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "26eed7c888806f5a9b33d07cf31a9e8a32128cadbcc0c3fe2e427e19e30d75df"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "7897b302a81d821dfd3c2c431d97b2020f631d228effcd000374c73fae8f7c2d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "311dec23d3af3aaf1e2004b85b95646bfe941a4dfb36a0eac38eaf8c66a5286d"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "f58cc54721026966ec80c4849639ec73bd64d9b8600bd3390d95717a57e60635"
+metafile = true
+
+[[files]]
+file = "mods/experimentalist.pw.toml"
+hash = "15be6cbb15df3c932e8fa5dff026b10f8e09a4dc994cd9724ee62a295f64afb1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "b1baa744204940671c7501296ae56e97da705f57b9d58bfdb522f87aa30d7d81"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-polymer.pw.toml"
+hash = "3f2ffabfe46ac6366a338817fc451b29019f1abce5b9b86e651ddc9ffe8277b5"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "04383356d753c6919347574f1d7a3de7a8c3e25cb64f1c285f7c7e5530c9beac"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-polymer.pw.toml"
+hash = "d8158f942ad4b17b6e3a212f928105af6bbd8696eed394b8822169f0f1b5ce22"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "176974025de65aea7dc12ef57c64f9d898bf529c23a1f7e3f9d76b65b7fe62fb"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
+metafile = true
+
+[[files]]
+file = "mods/image2map.pw.toml"
+hash = "fa226845ae025b20801270e6b2c8a535cd447a9630e04eb2dcd49627ae9dcff7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
+metafile = true
+
+[[files]]
+file = "mods/more-tools.pw.toml"
+hash = "09ec2e966c044db5ec7e703d9d67e386e5409d4a1ee0b34d4809d8017a291f4d"
+metafile = true
+
+[[files]]
+file = "mods/noend.pw.toml"
+hash = "52cee271a1e87b61a233aba96f973b4899e084587c09450d9bd0c53de0af5944"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b5d30402c7f440d2a332cd85277a6f4c119198e930fa5855f081263f3d353043"
+metafile = true
+
+[[files]]
+file = "mods/polydex.pw.toml"
+hash = "9d357c9c435ed637329d47fc117035370b18449a5e17aad1f66d98755e5226f0"
+metafile = true
+
+[[files]]
+file = "mods/polyfactory.pw.toml"
+hash = "66b8189edf57dd6a2f3bd27011a5c80b7b22c7670bc62097ea730f26813ba171"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "2bd03b3199bbd216be2e69ee41a3d52ecb13c485e2fc899111f826c5e1b57b19"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "27f525160243b25cadc2e7202f663ed1da1638204ba80c8ce9f651ed10ba7fb1"
+metafile = true
+
+[[files]]
+file = "mods/sswaystones.pw.toml"
+hash = "783fd9e41e0059d783890f470874f4702276ed858da11db1a0e8d11bab18603f"
+metafile = true
+
+[[files]]
+file = "mods/vaulted-end.pw.toml"
+hash = "264bfb916cda00b9edf1deee458d2536a6f6b4876447d174ec67957c9b868502"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "f65de0938a9cdda4cabb445d14ac2bb2b57f2dbe31723e12e6ddbbd90eb286c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/afk display v1.1.17 (MC 26.2).zip"
+hash = "ce3367617e2807746db9a5c391c218f5cabfe1eef4fd148a5b6fcf60fa911e4f"
+
+[[files]]
+file = "resourcepacks/armored elytra v2.0.11 (MC 26.2).zip"
+hash = "67ba0af380207eaf138e9fa9097ffa0547da1247f65e643f0d249caa0f2766c9"
+
+[[files]]
+file = "resourcepacks/custom nether portals v2.3.20 (MC 26.2).zip"
+hash = "141ff3190a16935259beefd0a562ebe7769f7b78f82f64d0aebe30c57f743054"
+
+[[files]]
+file = "resourcepacks/graves v4.1.1 (MC 26.2).zip"
+hash = "1cc1a64ced6d65da82f5f5f6c261c6ad031ecdf2b4a62f760f96d16696555861"
+
+[[files]]
+file = "resourcepacks/multiplayer sleep v2.6.17 (MC 26.2).zip"
+hash = "d9c4fe64f6c6e45f67b35f97422b30f5ca6f055bb83b1ba1a3a07257c3fdd7b6"
+
+[[files]]
+file = "resourcepacks/name colors v1.0.15 (MC 26.2).zip"
+hash = "4f34826ddb5244a0cdddca41d3cd68b93c87fa7874568469606847a09d324844"
+
+[[files]]
+file = "resourcepacks/unlock all recipes v2.0.18 (MC 26.2).zip"
+hash = "f8b7ce959caa153ccc12d973754ee3c0bf1fdb781383b21aeddb914d3dec8f7d"
+
+[[files]]
+file = "resourcepacks/xp bottling v1.1.18 (MC 26.2).zip"
+hash = "c70d5b6ab40bc7aa726140250130761ca45a819bf6662de0535060ff83244797"
+
+[[files]]
+file = "server.properties"
+hash = "8a80e8f80f8bbd1dae1d91b05a70dbd411361a4e051e89893bcd17d982d45bff"
