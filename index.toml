@@ -93,6 +93,11 @@ hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "cbba71ea20c1166c0cc02eca5b0ea00934773ff9917d6e5a29fc79952c37f232"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand-polymer.pw.toml"
 hash = "af04825eddc2865d89daafb2b1173bd6daf2bc3bdbfe30c7c2c59e60da242d96"
 metafile = true
@@ -268,7 +273,3 @@ hash = "f8b7ce959caa153ccc12d973754ee3c0bf1fdb781383b21aeddb914d3dec8f7d"
 [[files]]
 file = "resourcepacks/xp bottling v1.1.18 (MC 26.2).zip"
 hash = "c70d5b6ab40bc7aa726140250130761ca45a819bf6662de0535060ff83244797"
-
-[[files]]
-file = "server.properties"
-hash = "8a80e8f80f8bbd1dae1d91b05a70dbd411361a4e051e89893bcd17d982d45bff"
