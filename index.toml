@@ -65,10 +65,6 @@ file = "config/voicechat/translations.properties"
 hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "87d0f11eb2f89c43d3b9ba9ce24485b5b61e2d230049578a9674850a5798390f"
-
-[[files]]
 file = "mods/adventure-platform-mod.pw.toml"
 hash = "ee2c7c6b234e4e310e8a4dbbfe3de81a0fe099e99a2c22eb7a2c4622b05327a9"
 metafile = true
