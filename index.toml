@@ -210,10 +210,6 @@ hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
 metafile = true
 
 [[files]]
-file = "mods/polystorage-1.4.0.jar"
-hash = "24d9b474d7e6c505df24d7272cd7427debf0932a0ba75a5b13b2867221e40f61"
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2bd03b3199bbd216be2e69ee41a3d52ecb13c485e2fc899111f826c5e1b57b19"
 metafile = true
