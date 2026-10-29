@@ -1,0 +1,13 @@
+name = "Polymer Patch for Storage Delight"
+filename = "storagedelight-patch-26.07.01-26.2-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnNzknvx/versions/v12Uz6HW/storagedelight-patch-26.07.01-26.2-fabric.jar"
+hash-format = "sha512"
+hash = "5377168172b0cf0e900ae42e20339c9939cb82e987e9d38fdd4cd705130d81b7956d2191b2eb5a093ec9d98109fe7dd5e1a72afa80013253b3a23c4e8e22f6fb"
+
+[update]
+[update.modrinth]
+mod-id = "EnNzknvx"
+version = "v12Uz6HW"

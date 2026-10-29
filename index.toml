@@ -120,6 +120,16 @@ hash = "15be6cbb15df3c932e8fa5dff026b10f8e09a4dc994cd9724ee62a295f64afb1"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers-polymer.pw.toml"
+hash = "6331f9d06f6278c8f722ba96425ce59fa30f5edbff4183da743bd5f3777f8c03"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "0f855577b63fd6a5e2979158253327c657dda796dc36c6e7304f079c39747b0c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
 metafile = true
@@ -151,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "176974025de65aea7dc12ef57c64f9d898bf529c23a1f7e3f9d76b65b7fe62fb"
+hash = "a9fadfed7dd1a366d7cc13adb88133c5536c35b1fea3d7c2364b36d5939d77f4"
 metafile = true
 
 [[files]]
@@ -200,6 +210,10 @@ hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
 metafile = true
 
 [[files]]
+file = "mods/polystorage-1.4.0.jar"
+hash = "24d9b474d7e6c505df24d7272cd7427debf0932a0ba75a5b13b2867221e40f61"
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2bd03b3199bbd216be2e69ee41a3d52ecb13c485e2fc899111f826c5e1b57b19"
 metafile = true
@@ -212,6 +226,16 @@ metafile = true
 [[files]]
 file = "mods/sswaystones.pw.toml"
 hash = "783fd9e41e0059d783890f470874f4702276ed858da11db1a0e8d11bab18603f"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight-polymer.pw.toml"
+hash = "15bcb9f4867c3d5454c6c880e139bab1b392885d4ed4c839f6513020686f2405"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "e1ee9f33706a3c412210bd2351c81c1f482641512aa65ba75fc3d442907504b4"
 metafile = true
 
 [[files]]
