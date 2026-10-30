@@ -75,6 +75,16 @@ hash = "206ff590f9a55ddf46e0e0eec8fefeb8f8c0618602f153a276beb9cf75652807"
 metafile = true
 
 [[files]]
+file = "mods/cc-polymer.pw.toml"
+hash = "728a8ea3087c9b6506f9c69bc16c637493293cfaf621002cff7e56ded86e1b2a"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "a5dfc9ae97a6ca4e22857bd70ac272c5381ecef1e9a60ee439fb5bc940b24f05"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
 metafile = true
@@ -180,8 +190,8 @@ hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
 metafile = true
 
 [[files]]
-file = "mods/more-tools.pw.toml"
-hash = "09ec2e966c044db5ec7e703d9d67e386e5409d4a1ee0b34d4809d8017a291f4d"
+file = "mods/midnightlib.pw.toml"
+hash = "2b98bae5425f6a1917935110c890f5ed374da79ddc60f3031c96fbc656410baa"
 metafile = true
 
 [[files]]
@@ -192,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b5d30402c7f440d2a332cd85277a6f4c119198e930fa5855f081263f3d353043"
+metafile = true
+
+[[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "c422283e35464a4e4ecb7e8d5173cb5c40ae864f6c9e763c7d4854f52a452a00"
 metafile = true
 
 [[files]]
@@ -225,16 +240,6 @@ hash = "783fd9e41e0059d783890f470874f4702276ed858da11db1a0e8d11bab18603f"
 metafile = true
 
 [[files]]
-file = "mods/storage-delight-polymer.pw.toml"
-hash = "15bcb9f4867c3d5454c6c880e139bab1b392885d4ed4c839f6513020686f2405"
-metafile = true
-
-[[files]]
-file = "mods/storage-delight.pw.toml"
-hash = "e1ee9f33706a3c412210bd2351c81c1f482641512aa65ba75fc3d442907504b4"
-metafile = true
-
-[[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "264bfb916cda00b9edf1deee458d2536a6f6b4876447d174ec67957c9b868502"
 metafile = true
@@ -242,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "f65de0938a9cdda4cabb445d14ac2bb2b57f2dbe31723e12e6ddbbd90eb286c9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "568c2b12cadae2518cd83506a96e023e06552ff99d35322f6cb85f755f187686"
 metafile = true
 
 [[files]]
